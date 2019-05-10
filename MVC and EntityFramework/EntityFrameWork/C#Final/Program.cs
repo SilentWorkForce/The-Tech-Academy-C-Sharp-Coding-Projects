@@ -1,4 +1,4 @@
-﻿/*BookmarkDB Code First Demo Using Entity Framework*/
+﻿/* Make a C# application using Entity Framework Code First.*/
 /*C# and .NET final*/
 using System;
 using System.Collections.Generic;
