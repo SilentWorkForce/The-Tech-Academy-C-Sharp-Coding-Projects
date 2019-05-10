@@ -1,5 +1,5 @@
 ﻿/*A mock MVC application for Step 214 of C# and .NET*/
-/*Author: Colby Lee*/
+/*Author: Christopher Stam*/
 
 using System;
 using System.Collections.Generic;
