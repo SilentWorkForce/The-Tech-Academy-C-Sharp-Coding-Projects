@@ -1,4 +1,4 @@
-﻿/*A mock MVC application for Step 214 of C# and .NET*/
+﻿/*Step 214 of C# and .NET*/
 /*Author: Christopher Stam*/
 
 using System;
