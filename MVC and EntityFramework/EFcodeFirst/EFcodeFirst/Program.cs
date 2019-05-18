@@ -1,4 +1,4 @@
-﻿/*Make a C# application using Entity Framework Code First.*/
+﻿/*Using Entity Framework*/
 /*C# and .NET final*/
 using System;
 using System.Collections.Generic;
@@ -17,7 +17,7 @@ namespace CodeFirstNewDatabaseSample
             using (var db = new BookmarkContext())
             {
                 var bookmark1 = new Bookmark(1, "www.google.com", "e:/Marks");
-                var bookmark2 = new Bookmark(2, "www.twitter.com", "e:/Marks");
+                var bookmark2 = new Bookmark(2, "www.facebook.com", "e:/Marks");
 
                 db.bookmarks.Add(bookmark1);
                 db.bookmarks.Add(bookmark2);
