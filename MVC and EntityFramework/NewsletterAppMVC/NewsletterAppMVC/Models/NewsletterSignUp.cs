@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace NewsletterAppMVC.Models
+namespace NewsLetterAppMVC.Models
 {
-    public class NewsletterSignUp
+    public class NewsLetterSignUp
     {
         public int Id { get; set; }
         public string FirstName { get; set; }

@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace NewsletterAppMVC
+namespace NewsLetterAppMVC
 {
     public class BundleConfig
     {
