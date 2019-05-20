@@ -21,7 +21,7 @@ namespace CarInsurance.Controllers
 
 
         private readonly string connectionString =
-            @"Data Source=DESKTOP-UDKTPG7\SQLEXPRESS;Initial Catalog=BestPriceDb;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+            @"Data Source=C5T-PC-2\SQLEXPRESS;Initial Catalog=db_autoquotes;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
         public ActionResult Index()
         {
             ViewBag.Title = "Home Page";
